@@ -252,6 +252,9 @@ Now, let's start coding by importing the torch and the other necessary libraries
 ## References
 
 [1] I. Gooddellow, Y. Benzio, A. Courville. Deep leaning. MIT press: 2016.
+
 [2] Haykin, Simon. Neural networks: a comprehensive foundation. 2nd ed. Prentice-Hall, Inc: 1999.
+
 [3] Subramanian, Vishnu. Deep learning with python. Packt Publishing, Ltd: 2018.
+
 [4] Thomas, Sherin. Pytorch deep learning Hands-on. Packt Publishing, Ltd: 2019 
