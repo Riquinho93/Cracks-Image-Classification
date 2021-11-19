@@ -251,7 +251,7 @@ Now, let's start coding by importing the torch and the other necessary libraries
 
 ## References
 
-[1] I. Gooddellow, Y. Benzio, A. Courville. Deep leaning. MIT press: 2016.
+[1] I. Gooddellow, Y. Bengio, A. Courville. Deep leaning. MIT press: 2016.
 
 [2] Haykin, Simon. Neural networks: a comprehensive foundation. 2nd ed. Prentice-Hall, Inc: 1999.
 
